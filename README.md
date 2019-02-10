@@ -16,6 +16,6 @@ Installing this data follows the same steps under Windows, Mac OS or Linux.  Fro
 
 That's it.  Next time you start X-Plane this new data will be used.
 
-###Credits
+### Credits
 Initial Version adopted from [X-Plane](http://x-plane.com)
 
